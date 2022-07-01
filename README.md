@@ -12,9 +12,7 @@ Their are 2 views of the website :
   
  2> Admin View
     This view is protected by authentication using passport.js
-    
-    username: vaibhav
-    password: 12345
+   
     
     In this view their are multiple admin features :
     
